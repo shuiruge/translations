@@ -16,10 +16,14 @@
 
 一个没有受到过内观训练、缺乏内观知识的人，会认为有一个“我”、“自我”、“一个活着的实体”或“一个人”，作为看的主体，以为是“我看到”或“我了解到”。这在巴利经典中被称为 sakkaya-ditthi。Sakkaya 的意思是“物质和心识”，ditthi 是“错误的认识”，所以合成词 sakkaya-ditthi 就是“对于物质和心识的错误认识”。
 
-As long as one is not free from the wrong view of self, one cannot expect to escape from the risk of falling into the miserable realms of the hells, the animals or the petas. Though one may be leading a happy life in the human or deva world by virtue of one's merits, yet one is liable to fall back into the miserable states of existence at any time, when one's demerits operate. For this reason, the Buddha pointed out that it is essential to work for the total removal of the wrong view of self:
+只要还有我执（the wrong view of self），就会有脱坠入地狱的危险。虽然可以凭借自我的功德，暂时在人世或天界过着快乐的生活，但一有过失，便即刻坠入恶境。因此佛陀指出，必须要根除我执：
 
-> "Let a monk go forth mindfully to abandon view of self"
+> “比丘正念前行，舍弃我见。”
 > (sakkaya-ditthippahañaya sato bhikkhu paribbaje).
+
+人人都想摆脱生老病死，可无人能幸免。死后还有重生。根据我们的所作所为，或重生入地狱，或重生为动物，我们无从选择。所以，生死轮回非常可怕。应尽一切努力认识、脱离轮回，获得解脱。[^death-rebirth]
+
+If an escape from samsara as a whole is not possible for the present, an attempt should be made for an escape at least from the round of rebirth in the hell realms, the animal realm and the peta realm. In this case it is necessary to work for the total removal within oneself of sakkaya-ditthi, which is the root cause of rebirth in the miserable states of existence. Sakkaya-ditthi can only be destroyed completely by the noble path and fruit: the three supramundane virtues of morality, concentration and wisdom. It is therefore imperative to work for the development of these virtues. How should one do the work? By means of noting or observing one must go out from the jurisdiction of defilements (kilesa). One should practice by constantly noting or observing every act of seeing, hearing, etc., which are the constituent physical and mental processes, till one is freed from sakkaya-ditthi, the wrong view of self.
 
 ## 入门练习
 
@@ -32,3 +36,5 @@ As long as one is not free from the wrong view of self, one cannot expect to esc
 ### 关于作者
 
 [^original]: 原文：[《Satipatthana Vipassana》](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.html)，作者 Venerable Mahasi Sayadaw.
+
+[^death-rebirth]: 我们或许无法接受生死轮回的说法，但请试想：我们经常不待理性考察，就做出习惯性反应，这无异于动物；被欲望、情绪所控制，产生冲动的行为和言语，伤及他人，这无异于地狱。无时无刻，脑海中的念头不断升起，又不断消散，上一刻还心绪安宁，下一刻怒火燃烧起来，又仿佛换了一个人，这亦是生生死死。以此观之，生死轮回的说法便可感可知了。
