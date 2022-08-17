@@ -1,10 +1,10 @@
-# 念住内观（Satipatthana Vipassana） [^original]
+# 念住内观（Satipatthana Vipassana） [^original] [^rules]
 
 ## 导言
 
 ## 念住内观
 
-## 开发智慧
+## 发展智慧
 
 ### 看
 
@@ -16,14 +16,22 @@
 
 一个没有受到过内观训练、缺乏内观知识的人，会认为有一个“我”、“自我”、“一个活着的实体”或“一个人”，作为看的主体，以为是“我看到”或“我了解到”。这在巴利经典中被称为 sakkaya-ditthi。Sakkaya 的意思是“物质和心识”，ditthi 是“错误的认识”，所以合成词 sakkaya-ditthi 就是“对于物质和心识的错误认识”。
 
-只要还有我执（the wrong view of self），就会有脱坠入地狱的危险。虽然可以凭借自我的功德，暂时在人世或天界过着快乐的生活，但一有过失，便即刻坠入恶境。因此佛陀指出，必须要根除我执：
+只要有此错误认识，就会有脱坠入地狱的危险。虽然可以凭借自我的功德，暂时在人世或天界过着快乐的生活，但一有过失，便即刻坠入恶境。因此佛陀指出，必须要根除我执：
 
 > “比丘正念前行，舍弃我见。”
 > (sakkaya-ditthippahañaya sato bhikkhu paribbaje).
 
 人人都想摆脱生老病死，可无人能幸免。死后还有重生。根据我们的所作所为，或重生入地狱，或重生为动物，我们无从选择。所以，生死轮回非常可怕。应尽一切努力认识、脱离轮回，获得解脱。[^death-rebirth]
 
-If an escape from samsara as a whole is not possible for the present, an attempt should be made for an escape at least from the round of rebirth in the hell realms, the animal realm and the peta realm. In this case it is necessary to work for the total removal within oneself of sakkaya-ditthi, which is the root cause of rebirth in the miserable states of existence. Sakkaya-ditthi can only be destroyed completely by the noble path and fruit: the three supramundane virtues of morality, concentration and wisdom. It is therefore imperative to work for the development of these virtues. How should one do the work? By means of noting or observing one must go out from the jurisdiction of defilements (kilesa). One should practice by constantly noting or observing every act of seeing, hearing, etc., which are the constituent physical and mental processes, till one is freed from sakkaya-ditthi, the wrong view of self.
+如果不能摆脱轮回，至少应努力避免重生入恶境。作为重生入恶境的根本原因，sakkaya-ditthi 应被彻底根除。只有通过圣道，即品德、专注和智慧，才能脱离 sakkaya-ditthi。所以应当发展品德、专注和智慧。如何做？通过觉察 [note or observe]，我们摆脱烦恼（kilesa）。应当在每一所见所闻（等等）处，不断地觉察物质——心识过程，直到从对物质和心识的错误认识之中解脱出来为止。
+
+因此，这里讲内观冥想（vipassana meditation），为了让有意者在比较短的时间内，完成练习，获得圣道，彻底根除 sakkaya-ditthi，避免重入恶境。所谓练习，就是在每次看的时候，觉察看，并在内心标记“看”。“觉察” ["note" or "observe" or "contemplate"] 的意思是，将注意力保持在看的对象上，以清楚地认识它。
+
+于是，在每次看的时候，我们都注意到所见之物、看事物的眼睛和看的意识。如果不能注意到这三者，则会升起 sakkaya-ditthi，我们会认为是一个人，一个永恒、愉快的自我在看。于是产生贪恋和欲望，进而产生行为。如此不断往复，无有尽时。为了跳出轮回，必须要在每次看的时候，标记“看”。
+
+### 听及其它
+
+### 心念
 
 ## 入门练习
 
@@ -35,6 +43,8 @@ If an escape from samsara as a whole is not possible for the present, an attempt
 
 ### 关于作者
 
-[^original]: 原文：[《Satipatthana Vipassana》](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.html)，作者 Venerable Mahasi Sayadaw.
+[^original]: 原文：[《Satipatthana Vipassana》](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.html)，作者 Venerable Mahasi Sayadaw。
+
+[^rules]: 方括号 `AAA[BB]` 表示译文为 `AAA`，其原文为 `BB`。原文没有脚注，译文脚注都为译注。
 
 [^death-rebirth]: 我们或许无法接受生死轮回的说法，但请试想：我们经常不待理性考察，就做出习惯性反应，这无异于动物；被欲望、情绪所控制，产生冲动的行为和言语，伤及他人，这无异于地狱。无时无刻，脑海中的念头不断升起，又不断消散，上一刻还心绪安宁，下一刻怒火燃烧起来，又仿佛换了一个人，这亦是生生死死。以此观之，生死轮回的说法便可感可知了。
